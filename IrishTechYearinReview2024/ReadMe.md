@@ -1,11 +1,11 @@
 
-References
-
+**References
+**
 The sources provided do not include full URLs with HTTP addresses, but here's what can be inferred from the available information:
 
 *   **Tech.eu:** This source is identified as excerpts from a Tech.eu article titled "10 Irish startups to watch in 2024". Although a specific URL is not given, you can find the article at the Tech.eu website using the title.
 *   **Goosed.ie:** This source is an article from Goosed.ie titled "End of an Era: The NDRC Ceases Operations in 2025". Although a specific URL is not given, the article is likely available on the Goosed.ie website if you search for it using the title.
-*   **Review in 2024 Ireland.pdf**: This source appears to be a document that compiles various tech-related news and events related to Ireland from 2024. The document mentions several URLs which are referenced in the text.  Here are those urls with their http addresses:
+*   **Review in 2024 Ireland.pdf**: This source is a document that compiles various tech-related news and events related to Ireland from 2024. The document mentions several URLs which are referenced in the text.  Here are those urls with their http addresses:
     *   **Eir down? Current problems and issues | Downdetector**: This article is available at `https://downdetector.com/`
     *  **Eircom Reviews 2024 – All You Need to Know | ComplaintsBoard**: This article is available at `https://www.complaintsboard.com/`
     *   **End of an Era: The NDRC Ceases Operations in 2025:** This article appears in the Goosed.ie source, and can be found there
@@ -40,6 +40,4 @@ The sources provided do not include full URLs with HTTP addresses, but here's wh
     *  **Plenary conference – CETEF:** This article can be found at `https://cetef.eu/`
     *  **Introducing OpenAI o1:** A URL for this article is not provided, but can likely be found by searching the title
     *  **First two virtual wards on the way for hospital care at home:** A URL for this article is not provided, but it can likely be found by searching the title
-*   **techlayoffs.pdf:** This source is a document that is visually extracted as an image, and does not include any URLs.
-
-It’s important to note that while the source documents themselves may not contain full URLs, many of the linked articles and reports can be found online by using the provided titles or by searching for their related organisations.
+*   **techlayoffs.pdf:** 
