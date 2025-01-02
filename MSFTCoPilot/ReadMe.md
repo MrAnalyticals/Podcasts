@@ -16,7 +16,8 @@ The creation of Copilot agents involves several steps:
 3.	Integration: Embedding the trained models into Microsoft products to provide real-time assistance.
 4.	Testing and Refinement: Continuously testing the agent's performance and refining the models based on user feedback and new data.
 For more detailed information, you can refer to the Microsoft Learn documentation on building agents with Copilot Studio[1].
-Usage of Copilot Agents
+Usage of Copilot Agents: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build
+
 Copilot agents are used in various scenarios:
 •	Coding Assistance: In Visual Studio Code, Copilot can suggest code snippets, complete functions, and even generate entire blocks of code based on the context.
 •	Content Creation: In Microsoft 365, Copilot can help draft emails, create presentations, and write documents by understanding the user's intent and providing relevant suggestions.
@@ -44,8 +45,10 @@ Conclusion
 AI agents, particularly those like Microsoft's Copilot, represent a significant advancement in automation and productivity. By integrating advanced AI capabilities into everyday tools, these agents can transform how businesses operate, from software development to customer service. The potential use cases are vast, and as AI technology continues to evolve, the benefits will only become more pronounced.
 For businesses looking to stay competitive, investing in AI agents can provide a substantial advantage by improving efficiency, accuracy, and scalability. As more organizations adopt these technologies, we can expect to see a wave of innovation that redefines what is possible in the workplace.
 For more information on how agents and copilots work with large language models (LLMs), you can visit the Microsoft Learn documentation[2].
+https://learn.microsoft.com/en-us/dotnet/ai/conceptual/agents
 
 References
-[1] Use the Copilot Studio Agent Builder to Build Agents | Microsoft Learn
-[2] Use Copilot Studio Agent Builder to Build Agents | Microsoft Learn
+[1] Use the Copilot Studio Agent Builder to Build Agents | Microsoft Learn. https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build
+[2] Use Copilot Studio Agent Builder to Build Agents | Microsoft Learn https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder
+
 
